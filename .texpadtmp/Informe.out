@@ -1,0 +1,35 @@
+\BOOKMARK [1][-]{section.1}{\301lgebra relacional}{}% 1
+\BOOKMARK [1][-]{section.2}{C\341lculo relacional}{}% 2
+\BOOKMARK [1][-]{section.3}{Dependencias y Normalizaci\363n}{}% 3
+\BOOKMARK [2][-]{subsection.3.1}{Dependencia Funcional}{section.3}% 4
+\BOOKMARK [3][-]{subsubsection.3.1.1}{Axiomas de Armstrong, determinan el conjunto de todas las FDs \(Su clausura\)}{subsection.3.1}% 5
+\BOOKMARK [2][-]{subsection.3.2}{Dependencia Multivaluada MVD}{section.3}% 6
+\BOOKMARK [3][-]{subsubsection.3.2.1}{Axiomas de Armstrong para MVD}{subsection.3.2}% 7
+\BOOKMARK [2][-]{subsection.3.3}{Formas Normales}{section.3}% 8
+\BOOKMARK [3][-]{subsubsection.3.3.1}{1NF}{subsection.3.3}% 9
+\BOOKMARK [3][-]{subsubsection.3.3.2}{2NF}{subsection.3.3}% 10
+\BOOKMARK [3][-]{subsubsection.3.3.3}{3NF}{subsection.3.3}% 11
+\BOOKMARK [3][-]{subsubsection.3.3.4}{BCNF \(Boyce-Codd Normal Form\)}{subsection.3.3}% 12
+\BOOKMARK [3][-]{subsubsection.3.3.5}{Dependencias parciales \(S: subconjunto de una llave, X: conjunto de atributos\)}{subsection.3.3}% 13
+\BOOKMARK [3][-]{subsubsection.3.3.6}{Dependencias transitivas \(K: llave, X: no es parte de una llave, A: atributo\)}{subsection.3.3}% 14
+\BOOKMARK [2][-]{subsection.3.4}{Descomposici\363n}{section.3}% 15
+\BOOKMARK [3][-]{subsubsection.3.4.1}{Test de descomposici\363n sin perdida}{subsection.3.4}% 16
+\BOOKMARK [2][-]{subsection.3.5}{Normalizaci\363n}{section.3}% 17
+\BOOKMARK [3][-]{subsubsection.3.5.1}{Descomposici\363n a BCNF \(podr\355an perderse FDs\)}{subsection.3.5}% 18
+\BOOKMARK [3][-]{subsubsection.3.5.2}{Descomposici\363n a 3NF}{subsection.3.5}% 19
+\BOOKMARK [1][-]{section.4}{SQL}{}% 20
+\BOOKMARK [2][-]{subsection.4.1}{Create Tables}{section.4}% 21
+\BOOKMARK [2][-]{subsection.4.2}{ALTER TABLE}{section.4}% 22
+\BOOKMARK [2][-]{subsection.4.3}{CREATE INDEX}{section.4}% 23
+\BOOKMARK [2][-]{subsection.4.4}{Queries}{section.4}% 24
+\BOOKMARK [3][-]{subsubsection.4.4.1}{JOIN}{subsection.4.4}% 25
+\BOOKMARK [3][-]{subsubsection.4.4.2}{GROUP BY/HAVING}{subsection.4.4}% 26
+\BOOKMARK [3][-]{subsubsection.4.4.3}{UNION/EXCEPT/INTERSECT}{subsection.4.4}% 27
+\BOOKMARK [3][-]{subsubsection.4.4.4}{NESTED QUERIES}{subsection.4.4}% 28
+\BOOKMARK [3][-]{subsubsection.4.4.5}{LIKE}{subsection.4.4}% 29
+\BOOKMARK [3][-]{subsubsection.4.4.6}{AGREGATE OPERATORS}{subsection.4.4}% 30
+\BOOKMARK [2][-]{subsection.4.5}{VIEWS}{section.4}% 31
+\BOOKMARK [2][-]{subsection.4.6}{TRIGGERS}{section.4}% 32
+\BOOKMARK [2][-]{subsection.4.7}{TRANSACTIONS}{section.4}% 33
+\BOOKMARK [1][-]{section.5}{XML}{}% 34
+\BOOKMARK [1][-]{section.6}{SPARQL}{}% 35
